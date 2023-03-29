@@ -1,7 +1,7 @@
 ### Hello, i'm Beatriz!  👋
 
-- 🔭 Graduated in Chemistry, specialist in instrumental analysis
-- 🌱 I’m currently learning Python, Quality Assurance and technologies in general
+- ⚛️ Graduated in Chemistry, specialist in instrumental analysis
+- 💻 I’m currently learning Python, Quality Assurance and technologies in general
 - 🐈 kitty lover
 - 😄 Pronouns: she/her
 
