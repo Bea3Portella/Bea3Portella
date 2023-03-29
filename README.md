@@ -1,7 +1,8 @@
 ### Hello, i'm Beatriz!  👋
 
-- 🔭 I’m currently working on Quality Assurance
-- 🌱 I’m currently learning Python
+- 🔭 Graduated in Chemistry, specialist in instrumental analysis
+- 🌱 I’m currently learning Python, Quality Assurance and technologies in general
+- 🐈 kitty lover
 - 😄 Pronouns: she/her
 
 
