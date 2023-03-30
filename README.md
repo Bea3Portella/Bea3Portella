@@ -17,3 +17,9 @@
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bea3portella&show_icons=true&theme=radical)
+
+
+
+ 
+  ![Snake animation](https://github.com/bea3portella/bea3portella/blob/output/github-contribution-grid-snake.svg)
+ 
