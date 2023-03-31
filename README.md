@@ -19,6 +19,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bea3portella&show_icons=true&theme=radical)
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bea3portella&bg_color=0d1117&color=ff0000&line=ffd500&point=e60000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
  ![snake gif](https://github.com/bea3portella/bea3portella/blob/output/github-contribution-grid-snake.svg)
