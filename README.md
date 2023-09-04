@@ -23,4 +23,4 @@
 
 
 
- ![snake gif](https://github.com/bea3portella/bea3portella/blob/output/github-contribution-grid-snake.svg)
+
